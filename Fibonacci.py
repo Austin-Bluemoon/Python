@@ -1,4 +1,4 @@
-//This program will take a number and calculate its Finonacci number
+#This program will take a number and calculate its Finonacci number
 
 memo = {}
 
