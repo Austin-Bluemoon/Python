@@ -1,4 +1,4 @@
-#This program calculates sum of the fundamental physics concepts
+#This program calculates some of the fundamental physics concepts
 
 
 
