@@ -1,3 +1,5 @@
+//This program will take a number and calculate its Finonacci number
+
 memo = {}
 
 def fibonacci(num):
